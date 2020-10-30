@@ -1,4 +1,4 @@
-## These functions permit calculating the inverse of a given matrix and, 
+## Overview: These functions permit calculating the inverse of a given matrix and, 
 ## once calculated, it is cached
 
 ## This function creates a matrix object x capable of storing its inversed
